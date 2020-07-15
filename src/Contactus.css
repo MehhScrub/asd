@@ -1,0 +1,15 @@
+#firstdiv {
+  display: inline-block;
+  border: 2px solid grey;
+}
+
+#cntus {
+}
+
+.form-group {
+  padding: 10px;
+}
+
+label {
+  display: block;
+}
